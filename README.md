@@ -1,13 +1,15 @@
-## Hi there 👋
-#I'm Emmanuel Chifisi
 
-**✨I am a web developer| Software Enthusiast| lifelong Learner 
+# Hi there, I'm Emmanuel Chifisi 👋
 
-##skills
---**FrontEnd**HTML, CSS, JavaScript, Reactjs &nbsp
---**BackEnd** NodeJs, C++ &nbsp
---**Database** NoSQL, MongoDB  &nbsp
---**Tools** GitHUB &nbsp
+💻 **Software Developer | Web Enthusiast | Lifelong Learner**  
+🌟 Passionate about building user-friendly web applications and solving real-world problems through technology.  
 
-##projects##
-**Online Career mw**
+## 🔨 Skills  
+- **Frontend**: HTML, CSS, JavaScript, React  
+- **Backend**: Node.js, Express  
+- **Database**: MongoDB, MySQL  
+- **Tools**: Git, GitHub, VS Code  
+
+## 🚀 Projects  
+- **Career Guider Mw**:  
+  
